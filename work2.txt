@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 a b c cc
 e f g h
+=======
+a b d
+>>>>>>> user
